@@ -33,6 +33,7 @@ START_MSG = """
 **Hi, I'm Media Search bot**
 
 Here you can search files in inline mode. Just press following buttons and start searching.
+Developer @faisalkvr
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
